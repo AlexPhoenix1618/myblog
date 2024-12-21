@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//192.168.223.130:80/posts/first/</loc>
+    <lastmod>2024-12-21T17:34:11+08:00</lastmod>
+  </url><url>
+    <loc>//192.168.223.130:80/</loc>
+    <lastmod>2024-12-21T17:34:11+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//192.168.223.130:80/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="//192.168.223.130:80/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//192.168.223.130:80/"
+                />
+  </url><url>
+    <loc>//192.168.223.130:80/posts/</loc>
+    <lastmod>2024-12-21T17:34:11+08:00</lastmod>
+  </url><url>
+    <loc>//192.168.223.130:80/categories/</loc>
+  </url><url>
+    <loc>//192.168.223.130:80/series/</loc>
+  </url><url>
+    <loc>//192.168.223.130:80/tags/</loc>
+  </url>
+</urlset>
