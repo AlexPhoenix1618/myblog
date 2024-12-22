@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//192.168.223.130:80/fr/frcategories/</loc>
+    <loc>http://192.168.223.130:80/fr/frcategories/</loc>
   </url><url>
-    <loc>//192.168.223.130:80/fr/frseries/</loc>
+    <loc>http://192.168.223.130:80/fr/frseries/</loc>
   </url><url>
-    <loc>//192.168.223.130:80/fr/frtags/</loc>
+    <loc>http://192.168.223.130:80/fr/frtags/</loc>
   </url><url>
-    <loc>//192.168.223.130:80/fr/</loc>
+    <loc>http://192.168.223.130:80/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//192.168.223.130:80/"
+                href="http://192.168.223.130:80/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="//192.168.223.130:80/fa/"
+                href="http://192.168.223.130:80/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//192.168.223.130:80/fr/"
+                href="http://192.168.223.130:80/fr/"
                 />
   </url>
 </urlset>
